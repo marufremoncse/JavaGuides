@@ -1,5 +1,5 @@
 public class CountVowelsAndConsonantsInAString {
-    //Count Vowels and Consonants in a String
+
     public static void solution(String input) {
         int vc = 0, cc = 0;
 
